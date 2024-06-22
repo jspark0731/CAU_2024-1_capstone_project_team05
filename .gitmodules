@@ -1,0 +1,12 @@
+[submodule "capstone-music-app-test"]
+	path = capstone-music-app-test
+	url = https://github.com/Hyeple/capstone-music-app-test.git
+[submodule "CAU_2024-1_capstone_project_team05_backend"]
+	path = CAU_2024-1_capstone_project_team05_backend
+	url = https://github.com/jspark0731/CAU_2024-1_capstone_project_team05_backend.git
+[submodule "CAU_2024-1_capstone_project_team05_ML"]
+	path = CAU_2024-1_capstone_project_team05_ML
+	url = https://github.com/jspark0731/CAU_2024-1_capstone_project_team05_ML.git
+[submodule "ytm-api"]
+	path = ytm-api
+	url = https://github.com/pscr-kdh/ytm-api.git
